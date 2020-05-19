@@ -1,0 +1,62 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    font-family: 'Titillium Web', sans-serif;
+    background-image: url("https://c.pxhere.com/photos/1c/22/photo-1411538.jpg!d");
+    background-size: cover;
+}
+
+.nav-bar {
+    padding: 1px;
+    background-color: white;
+    opacity: 50%;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.btn {
+    height: 5vh;
+    width: 10vw;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+}
+
+#display-box-container {
+    margin-left: 320px;
+    margin-right: 380px;
+}
+
+
+#display-box {
+    width: 900px;
+    height: 480px;
+    margin-top: 100px;
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 2px black;    
+}
+
+
+
+footer {
+    padding: 26px;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px black;
+
+}
